@@ -1,3 +1,5 @@
+/* create by 2019/04/26 */
+
 const array = ["a", "b", "c", "d"];
 
 const valueInArray = array.splice(0,1);
